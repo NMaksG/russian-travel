@@ -1,0 +1,16 @@
+.lead__lead-polka {
+  max-width: 100%;
+  margin: 64px auto 0;
+}
+
+@media screen and (max-width: 1079px) {
+  .lead__lead-polka {
+    margin-top: 56px;
+  }
+}
+
+@media screen and (max-width: 495px) {
+  .lead__lead-polka {
+    margin-top: 40px;
+  }
+}
