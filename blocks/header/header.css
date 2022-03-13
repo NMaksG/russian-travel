@@ -25,11 +25,4 @@
     margin: 0 16px;
     padding-top: 16px;
   }
-}
-  
-@media screen and (max-width: 495px) {
-  .header {
-    margin: 0 16px;
-    padding-top: 16px;
-  }
-}
+}  
